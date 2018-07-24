@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Watch</string>
+    <string name="record_event">Record Task</string>
+    <string name="time_default">15:17:35</string>
+    <string name="title">Enter a title</string>
+    <string name="description">Add Task Description</string>
+    <string name="starting">Starting Task</string>
+    <string name="ending">Finishing Task</string>
+    <string name="add_task">Add Task</string>
+    <string name="save">Save Task</string>
+    <string name="discard">Discard</string>
+    <string name="duration_hint">Duration in Minutes</string>
+    <string name="view">Tasks</string>
+    <string name="all_tasks">Tasks</string>
+</resources>
